@@ -1,0 +1,18 @@
+
+type Query{
+   courses:[Course]
+}
+
+type Course{
+    id:ID
+    title:String
+    type:String
+    level:String
+    image:String
+    start_date:String
+    end_date:String
+    age_from:Float
+    age_to:Float
+    active:Boolean
+    
+}

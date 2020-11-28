@@ -1,0 +1,76 @@
+{
+  "courses": [
+      { 
+        "id": 1, 
+        "title": "Class 1", 
+        "image": "https://via.placeholder.com/150",
+        "start_date": "01-01-2021",
+        "end_date": "01-03-2021",
+        "age_from": 6, 
+        "age_to": 9,
+        "type": "ONLINE",
+        "level": "BEGINNER",
+        "active": true
+      },
+      { 
+        "id": 2, 
+        "title": "Class 2", 
+        "image": "https://via.placeholder.com/150",
+        "start_date": "01-02-2021",
+        "end_date": "01-04-2021",
+        "age_from": 6, 
+        "age_to": 9,
+        "type": "STUDIO",
+        "level": "BEGINNER",
+        "active": true
+      },
+      { 
+        "id": 3, 
+        "title": "Class 3", 
+        "image": "https://via.placeholder.com/150",
+        "start_date": "01-01-2021",
+        "end_date": "01-03-2021",
+        "age_from": 6, 
+        "age_to": 9,
+        "type": "STUDIO",
+        "level": "INTERMEDIATE",
+        "active": false
+      },
+      { 
+        "id": 4, 
+        "title": "Class 4", 
+        "image": "https://via.placeholder.com/150",
+        "start_date": "01-01-2021",
+        "end_date": "01-03-2021",
+        "age_from": 6, 
+        "age_to": 9,
+        "type": "ONLINE",
+        "level": "ADVANCED",
+        "active": true
+      },
+      { 
+        "id": 5, 
+        "title": "Class 5", 
+        "image": "https://via.placeholder.com/150",
+        "start_date": "01-01-2021",
+        "end_date": "01-03-2021",
+        "age_from": 6, 
+        "age_to": 9,
+        "type": "ONLINE",
+        "level": "ADVANCED",
+        "active": true
+      },
+      { 
+        "id": 6, 
+        "title": "Class 6", 
+        "image": "https://via.placeholder.com/150",
+        "start_date": "01-01-2021",
+        "end_date": "01-03-2021",
+        "age_from": 6, 
+        "age_to": 9,
+        "type": "ONLINE",
+        "level": "BEGINNER",
+        "active": true
+      }
+  ]
+}
